@@ -1,3 +1,3 @@
-# Trojan
+# storage-room
 
-请参看 [Bash/shell/trojan.sh](https://i-curve/Bash)
+杂物间
